@@ -7,7 +7,7 @@ A 2D Pac-Man-inspired game built with Unity. It expands the classic maze-chase g
 
 To play without installing Unity, download the latest Windows build from:
 
-[Download Pac-Man Deluxe](https://github.com/nehcyrag/Pac-man-deluxe/packages)
+[Download Pac-Man Deluxe]([https://github.com/nehcyrag/Pac-man-deluxe/packages](https://github.com/nehcyrag/Pac-man-deluxe/releases/tag/v.1.0.0))
 
 Extract the ZIP file and run `Pac-Man Deluxe.exe`.
 
