@@ -3,6 +3,14 @@
 ![Pac-Man Deluxe](Assets/Resources/Menu/pacman_deluxe.png)
 
 A 2D Pac-Man-inspired game built with Unity. It expands the classic maze-chase gameplay with local co-op, ghosts using different targeting strategies, increasing level difficulty, and a variety of special items.
+## Download the Game
+
+To play without installing Unity, download the latest Windows build from:
+
+[Download Pac-Man Deluxe](你的 GitHub Release 連結)
+
+Extract the ZIP file and run `Pac-Man Deluxe.exe`.
+
 
 ## Features
 
